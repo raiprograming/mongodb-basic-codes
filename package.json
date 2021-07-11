@@ -1,0 +1,16 @@
+{
+  "name": "mongodb_1",
+  "version": "1.0.0",
+  "description": "first project on mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.0.1",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4"
+  }
+}
